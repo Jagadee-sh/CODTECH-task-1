@@ -22,3 +22,13 @@ This repository demonstrates how to containerize a Flask web application using D
 - Python 3.9+ (optional, for local development)
 
 ## Project Structure
+web-app/
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+├── requirements.txt
+├── app.py
+├── Dockerfile
+├── docker-compose.yml
+├── .env
+├── README.md
