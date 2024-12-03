@@ -1,4 +1,9 @@
 # CODTECH-task-1
+NAME: Jagadeesh maddi
+COMPANY:CODTECH IT solutions
+ID:CT6WDS2607
+DOMAIN:DEVOPS
+DURATION:NOV30 TO january 15
 
 # Flask Web Application with Docker
 
